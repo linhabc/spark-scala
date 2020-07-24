@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/linhnguyen/Desktop/_learn_/spark_sql/src/main/scala/index2.scala:16:26: not found: value Person[0m
+[0m[[0m[31merror[0m] [0m[0m      .map(attributes => Person(attributes(0), attributes(1).trim.toInt))[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
